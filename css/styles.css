@@ -17,8 +17,9 @@ body {
   height: 100%;
   padding: 0;
   margin: 0;
-  font-family: "Arial", sans-serif;
+  font-family:"Roboto Condensed", "Arial", sans-serif;
   font-size: 16px;
+  font-weight: 400px;
   line-height: 1.5;
   background-color: #fff;
   color: #222;
@@ -116,6 +117,7 @@ select:-webkit-autofill:focus {
 .hero-heading {
   margin-top: 0;
   margin-bottom: 24px;
+  font-family: "Bebas Neue","Roboto Condensed","Arial",sans-serif;
   font-size: 24px;
   line-height: normal;
   letter-spacing: 2px;
@@ -147,16 +149,6 @@ select:-webkit-autofill:focus {
 }
 .hero-link-text {
 }
-
-
-
-
-
-
-
-
-
-
 
 /* RETINA BG */
 
